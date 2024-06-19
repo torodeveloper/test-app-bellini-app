@@ -1,0 +1,25 @@
+{
+  "type": "custom-component",
+  "name": "comp",
+  "children": [],
+  "variables": [
+    {
+      "name": "nonExportedProp",
+      "type": "property",
+      "description": "",
+      "value": ""
+    }
+  ],
+  "bindings": [
+    {
+      "name": "exportedProp",
+      "type": "<",
+      "description": "",
+      "propertyType": "property",
+      "default": ""
+    }
+  ],
+  "modules": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
